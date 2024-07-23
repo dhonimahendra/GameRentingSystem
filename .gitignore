@@ -35,3 +35,19 @@ out/
 
 ### VS Code ###
 .vscode/
+
+.gradle
+*.jar
+*.class
+*.classpath
+*.project
+*.pydevproject
+*.settings
+.DS_Store
+bin/
+build/
+gradle/
+logs/
+gradlew*
+urls.txt
+.idea/
